@@ -10,8 +10,11 @@ I will work on this for about 1 once a week, until it's shortened or Greatly imp
 # To Run. (This is to help me Remember Im a Rabbits Tail.)
 This was produced In mu editor With python 3.10, In order to use, It has to be Command prompt is. ex. If you straight Up download the script, you would have to run it from C://Users/(User) but if you Use Python on its own to Recieve the Script (ex git clone), It will Use System 32.
 Since this was made in Python 3.10, It would be best to run it as:
+
 python3 finalProductforEarlyChapters.py
+
 after Loading for a few seconds, the Terminal should print this:
+  
   Welcome to Remind-a-pet! Please follow the Instructions!
   First, Please input the Amount of animals you Have
   
