@@ -16,7 +16,8 @@ python3 finalProductforEarlyChapters.py
 after Loading for a few seconds, the Terminal should print this:
   
   Welcome to Remind-a-pet! Please follow the Instructions!
-  First, Please input the Amount of animals you Have
+ 
+ First, Please input the Amount of animals you Have
   
   # Known Issues
   After Input of Breeds, You will need to hit enter once more to recieve the final printout. I Will try to Fix this In the first week.
