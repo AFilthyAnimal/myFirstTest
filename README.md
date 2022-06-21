@@ -20,4 +20,4 @@ after Loading for a few seconds, the Terminal should print this:
  First, Please input the Amount of animals you Have
   
   # Known Issues
-  After Input of Breeds, You will need to hit enter once more to recieve the final printout. I Will try to Fix this In the first week.
+  After Input of Breeds, You will need to hit enter once more to recieve the final printout. I Will try to Fix this at a point
